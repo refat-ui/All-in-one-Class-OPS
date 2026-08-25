@@ -1,0 +1,6 @@
+{
+  "name": "Class & Content Operations Command Center",
+  "description": "Realtime operations dashboard and visual analytics connected directly to Google Sheets for Studio OPS, 2026 Central Metrics, Studio Coordination, and Content Editing pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

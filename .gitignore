@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local one-off sheet-inspection script (scraped the old embedded key; not part of the app)
+inspect_sheet.ts
